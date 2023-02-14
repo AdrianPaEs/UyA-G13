@@ -1,16 +1,33 @@
 1. Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.
 
-  Fase de análisis: entrevistas, observación de los usuarios, análisis de tareas, test de usuarios, estudio de homólogos y grupos focales. 
-  Fase de diseño: card sorting y creación de personas.
+  Fase de análisis: 
+    Observación de usuarios: Se observó cómo los usuarios interactuaban con el espacio de la biblioteca y se identificaron problemas y oportunidades.
+    Entrevistas: Se entrevistaron a los usuarios para comprender sus necesidades y expectativas en relación con la biblioteca.
+    Análisis de tareas: Se analizaron las tareas que los usuarios realizan en la biblioteca para identificar problemas y oportunidades.
+    Test de usuarios: Se observó cómo un grupo de usuarios llevaron a cabo una serie de tareas encomendadas por el evaluador, analizando los problemas con los que se encuentran.
+    Benchmarking: Se realizó un estudio homólogo donde se hizo una comparación con otros sitios web que poseen contenidos y públicos similares.
   
+  Fase de diseño: 
+    Card sorting: Se seleccionaron una muestra de usuarios y se obtuvieron sus criterios con respecto a los contenidos y la organización que podrían tener.
+    Creación de personas: Se crearon perfiles ficticios de usuarios basados en la información recopilada en las entrevistas y la observación.
   
+  Fase de evaluación:
+    Pruebas de usabilidad: Se probaron los prototipos con usuarios reales para evaluar su usabilidad y recopilar comentarios.
+    Heurística: Los especialistas identificaron problemas concretos de arquitectura de información, usabilidad y accesibilidad.
+
 2. Aplicar el DCU para la realización de un prototipo de una aplicación web . Para ello:
   - Definir las tareas que se llevarán a cabo en la fase de investigación y diseño conceptual de la aplicación.
-    
-  - Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto.
-    
- /* - Crear un repositorio en github para las tareas de la asignatura.
-  
-  - Realizar el documento Readme en el repositorio en el que se documente el proceso a seguir. 
-  
-  - En la entrega de texto agregar un enlace a dicho documento. En la entrega subir un pdf.*/
+      Investigación de mercado y usuarios para identificar las necesidades y expectativas de los usuarios de una página web de información.
+      Realización de entrevistas con potenciales usuarios para entender sus necesidades y comportamientos, y definir sus perfiles.
+      Análisis de la competencia para identificar los puntos fuertes y débiles de otras páginas web de información.
+      Definición del concepto y la visión de la página web de información, incluyendo el contenido y las funcionalidades a incluir.
+      Creación de los wireframes de la página web para visualizar la estructura y el contenido de la página web de información.
+      Diseño visual de la página web, incluyendo la selección de colores, fuentes y otros elementos gráficos.
+ 
+ - Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto.
+      Nuestra página web está enfocada en dar visibilidad a nuestro territorio, mediante el uso de interacciones para observar los diferentes parques nacionales de las diferentes islas.
+      Los interesados serían:
+        Turistas
+        Senderistas
+        Especialistas en la materia (geógrafos, historiadores...)
+        Interesados en el ámbito
