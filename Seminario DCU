@@ -1,14 +1,16 @@
 1. Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.
 
-El 
-
+  Fase de análisis: entrevistas, observación de los usuarios, análisis de tareas, test de usuarios, estudio de homólogos y grupos focales. 
+  Fase de diseño: card sorting y creación de personas.
+  
+  
 2. Aplicar el DCU para la realización de un prototipo de una aplicación web . Para ello:
   - Definir las tareas que se llevarán a cabo en la fase de investigación y diseño conceptual de la aplicación.
-  
+    
   - Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto.
-  
-  - Crear un repositorio en github para las tareas de la asignatura.
+    
+ /* - Crear un repositorio en github para las tareas de la asignatura.
   
   - Realizar el documento Readme en el repositorio en el que se documente el proceso a seguir. 
   
-  - En la entrega de texto agregar un enlace a dicho documento. En la entrega subir un pdf.
+  - En la entrega de texto agregar un enlace a dicho documento. En la entrega subir un pdf.*/
